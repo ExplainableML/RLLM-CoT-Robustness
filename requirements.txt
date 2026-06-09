@@ -1,0 +1,12 @@
+datasets==4.1.0
+huggingface-hub==0.34.5
+numpy==1.26.4
+pandas==2.3.2
+pyarrow>=15.0.0
+pytest>=8.0.0
+scikit-learn==1.7.2
+spacy==3.8.7
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.56.1
+vllm==0.10.2
